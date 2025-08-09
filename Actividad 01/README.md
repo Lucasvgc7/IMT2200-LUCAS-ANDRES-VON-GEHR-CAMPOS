@@ -1,4 +1,9 @@
 # IMT2200-Actividad 01
+
+Esta es la Actividad 01 del curso IMT2200, realizada por **Lucas von Gehr**
+
+## Cambios:
+
 1. Se modifico el archivo ``IMT2200 - Actividad 01.ipynb``.
     * Se cambio el color del mapa generado en la ultima linea de codigo.
     * Se modifico el titulo del mapa generando agregando mi nombre.
