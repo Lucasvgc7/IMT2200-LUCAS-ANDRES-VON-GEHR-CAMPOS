@@ -4,7 +4,7 @@
 
 ### Actualizaciones:
 
-#### 9 de Julio 2025:
+#### 9 de Agosto 2025:
 
 * Se creo que Repositorio ``IMT2200-LUCAS-ANDRES-VON-GEHR-CAMPOS``.
 
