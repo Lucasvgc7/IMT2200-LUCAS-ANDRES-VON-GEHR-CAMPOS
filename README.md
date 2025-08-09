@@ -1,6 +1,6 @@
 # ¡Bienvenido al Repositorio de Lucas Andres von Gehr Campos! 
 
-## Este repositorio contara con material publicado por el estudiante **Lucas von Gehr** para el curso Introduccion a la Ciencia de Datos (IMT2200).
+## Este repositorio contara con material publicado por el estudiante "Lucas von Gehr" para el curso Introduccion a la Ciencia de Datos (IMT2200).
 
 ### Actualizaciones:
 
